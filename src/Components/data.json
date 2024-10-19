@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Harddisk",
+        "url": "/harddisk"
+    },
+    {
+        "name":"Ram",
+        "url": "/Ram"
+    },
+    {
+        "name":"Laptop",
+        "url": "/Laptop"
+    },
+    {
+        "name":"CPU",
+        "url": "/CPU"
+    },
+    {
+        "name":"Motherboard",
+        "url": "/Motherboard"
+    },
+    {
+        "name":"Desktop",
+        "url": "/Desktop"
+    },
+    {
+        "name":"Pen-drive",
+        "url": "/Pen-drive"
+    }
+    ,{
+        "name":"Monitor",
+        "url": "/Monitor"
+    }
+]

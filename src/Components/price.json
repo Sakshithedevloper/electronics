@@ -1,0 +1,221 @@
+[
+    
+        {
+          "Brand": "Canon",
+          "Model": "EOS R5",
+          "Specifications": {
+            "Sensor Type": "Full-frame",
+            "Megapixels": 45,
+            "Video Resolution": "8K",
+            "ISO Range": "100-51,200",
+            "Weight": "738g"
+          },
+          "Price": "38999"
+        },
+        {
+          "Brand": "Nikon",
+          "Model": "Z7 II",
+          "Specifications": {
+            "Sensor Type": "Full-frame",
+            "Megapixels": 45.7,
+            "Video Resolution": "4K",
+            "ISO Range": "64-25,600",
+            "Weight": "705g"
+          },
+          "Price": "27999"
+        },
+        {
+          "Brand": "Sony",
+          "Model": "A7 IV",
+          "Specifications": {
+            "Sensor Type": "Full-frame",
+            "Megapixels": 33,
+            "Video Resolution": "4K",
+            "ISO Range": "100-51,200",
+            "Weight": "658g"
+          },
+          "Price": "24999"
+        },
+        {
+            "Brand": "Sony",
+            "Model": "WH-1000XM4",
+            "Specifications": {
+              "Type": "Over-ear",
+              "Noise Cancellation": "Active",
+              "Battery Life": "30 hours",
+              "Connectivity": "Bluetooth 5.0",
+              "Weight": "254g"
+            },
+            "Price": "29999"
+          },
+          {
+            "Brand": "Bose",
+            "Model": "Noise Cancelling Headphones 700",
+            "Specifications": {
+              "Type": "Over-ear",
+              "Noise Cancellation": "Active",
+              "Battery Life": "20 hours",
+              "Connectivity": "Bluetooth 5.0",
+              "Weight": "250g"
+            },
+            "Price": "34999"
+          },
+          {
+            "Brand": "Apple",
+            "Model": "AirPods Max",
+            "Specifications": {
+              "Type": "Over-ear",
+              "Noise Cancellation": "Active",
+              "Battery Life": "20 hours",
+              "Connectivity": "Bluetooth 5.0",
+              "Weight": "384g"
+            },
+            "Price": "59999"
+          },
+          {
+            "Brand": "Dahua",
+            "Model": "IPC-HDW5831R-ZE",
+            "Specifications": {
+              "Resolution": "8MP",
+              "Lens": "2.7mm - 13.5mm motorized lens",
+              "Night Vision": "30m",
+              "Field of View": "106° - 32°",
+              "Connectivity": "PoE"
+            },
+            "Price": "19999"
+          },
+          {
+            "Brand": "Hikvision",
+            "Model": "DS-2CD2385FWD-I",
+            "Specifications": {
+              "Resolution": "8MP",
+              "Lens": "2.8mm fixed lens",
+              "Night Vision": "30m",
+              "Field of View": "105°",
+              "Connectivity": "PoE"
+            },
+            "Price": "18999"
+          },
+          {
+            "Brand": "Axis",
+            "Model": "P5635-E",
+            "Specifications": {
+              "Resolution": "1080p",
+              "Lens": "4.2-12mm",
+              "Night Vision": "IR-enabled",
+              "Field of View": "60° - 20°",
+              "Connectivity": "PoE"
+            },
+            "Price": "45999"
+          },
+          {
+            "Brand": "Apple",
+            "Model": "iPhone 15 Pro",
+            "Specifications": {
+              "Display": "6.1-inch Super Retina XDR",
+              "Processor": "A17 Pro",
+              "Camera": "48MP triple-camera system",
+              "Battery Life": "Up to 23 hours talk time",
+              "Storage Options": ["128GB", "256GB", "512GB", "1TB"]
+            },
+            "Price": "109999"
+          },
+          {
+            "Brand": "Samsung",
+            "Model": "Galaxy S23 Ultra",
+            "Specifications": {
+              "Display": "6.8-inch QHD+ Dynamic AMOLED",
+              "Processor": "Snapdragon 8 Gen 2",
+              "Camera": "200MP quad-camera system",
+              "Battery Life": "Up to 28 hours talk time",
+              "Storage Options": ["256GB", "512GB", "1TB"]
+            },
+            "Price": "134999"
+          },
+          {
+            "Brand": "Google",
+            "Model": "Pixel 8 Pro",
+            "Specifications": {
+              "Display": "6.7-inch LTPO AMOLED",
+              "Processor": "Google Tensor G3",
+              "Camera": "50MP triple-camera system",
+              "Battery Life": "Up to 24 hours talk time",
+              "Storage Options": ["128GB", "256GB", "512GB"]
+            },
+            "Price": "99999"
+          },
+          {
+            "Brand": "ASUS",
+            "Model": "ROG Crosshair VIII Hero",
+            "Specifications": {
+              "Socket": "AM4",
+              "Chipset": "AMD X570",
+              "Form Factor": "ATX",
+              "RAM Support": "Up to 128GB DDR4",
+              "Storage Options": "4x SATA, 2x M.2"
+            },
+            "Price": "24999"
+          },
+          {
+            "Brand": "MSI",
+            "Model": "MAG B550 Tomahawk",
+            "Specifications": {
+              "Socket": "AM4",
+              "Chipset": "AMD B550",
+              "Form Factor": "ATX",
+              "RAM Support": "Up to 128GB DDR4",
+              "Storage Options": "6x SATA, 2x M.2"
+            },
+            "Price": "15999"
+          },
+          {
+            "Brand": "Gigabyte",
+            "Model": "Z690 AORUS Master",
+            "Specifications": {
+              "Socket": "LGA 1700",
+              "Chipset": "Intel Z690",
+              "Form Factor": "ATX",
+              "RAM Support": "Up to 128GB DDR4/DDR5",
+              "Storage Options": "6x SATA, 4x M.2"
+            },
+            "Price": "32999"
+          },
+          {
+            "Brand": "Apple",
+            "Model": "MacBook Pro 14 (2023)",
+            "Specifications": {
+              "Display": "14.2-inch Liquid Retina XDR",
+              "Processor": "Apple M2 Pro",
+              "RAM": "16GB",
+              "Storage": "512GB SSD",
+              "Battery Life": "Up to 17 hours"
+            },
+            "Price": "199999"
+          },
+          {
+            "Brand": "Dell",
+            "Model": "XPS 15 (2023)",
+            "Specifications": {
+              "Display": "15.6-inch FHD+ (1920 x 1200)",
+              "Processor": "Intel Core i7-12700H",
+              "RAM": "16GB",
+              "Storage": "1TB SSD",
+              "Battery Life": "Up to 12 hours"
+            },
+            "Price": "189999"
+          },
+          {
+            "Brand": "HP",
+            "Model": "Spectre x360 14",
+            "Specifications": {
+              "Display": "13.5-inch OLED",
+              "Processor": "Intel Core i7-1255U",
+              "RAM": "16GB",
+              "Storage": "1TB SSD",
+              "Battery Life": "Up to 15 hours"
+            },
+            "Price": "159999"
+          }
+        
+    
+]
