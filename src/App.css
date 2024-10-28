@@ -92,6 +92,61 @@ th {
   color: aliceblue;
 }
 
+.dealer{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #8469bc;
+  font-weight: 900;
+  color: aliceblue;
+}
+
+.member{
+  font-weight: 900;
+  color: rgb(11, 11, 11);
+  background-color: lightgray; padding: 5px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.benefit{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #8469bc;
+  font-weight: 900;
+  color: aliceblue;
+}
+
+.input-text{
+  width: 300px;
+  height: 25px;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+input{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 30px;
+}
+
+.signup{
+  display: inline-table;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .registration{
+ 
+  justify-content: center;
+  align-items: center;
+} */
 
 
 

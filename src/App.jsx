@@ -7,6 +7,8 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './Components/Home'
 import { Table } from './Components/Table'
 import Price from './Components/Price'
+import Dealers from './Components/Dealers'
+import Register from './Components/Register'
 
 const App = () => {
   return (
@@ -15,7 +17,9 @@ const App = () => {
         <NewHeader />
         <Home />
         <Table />
-        <Price />
+        {/* <Price /> */}
+        <Dealers/>
+        <Register/>
         <Routes>
 
 

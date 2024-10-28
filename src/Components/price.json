@@ -9,8 +9,8 @@
             "Video Resolution": "8K",
             "ISO Range": "100-51,200",
             "Weight": "738g"
-          },
-          "Price": "38999"
+          }
+          
         },
         {
           "Brand": "Nikon",
@@ -21,8 +21,8 @@
             "Video Resolution": "4K",
             "ISO Range": "64-25,600",
             "Weight": "705g"
-          },
-          "Price": "27999"
+          }
+          
         },
         {
           "Brand": "Sony",
@@ -33,8 +33,8 @@
             "Video Resolution": "4K",
             "ISO Range": "100-51,200",
             "Weight": "658g"
-          },
-          "Price": "24999"
+          }
+          
         },
         {
             "Brand": "Sony",
@@ -45,8 +45,8 @@
               "Battery Life": "30 hours",
               "Connectivity": "Bluetooth 5.0",
               "Weight": "254g"
-            },
-            "Price": "29999"
+            }
+            
           },
           {
             "Brand": "Bose",
@@ -57,8 +57,8 @@
               "Battery Life": "20 hours",
               "Connectivity": "Bluetooth 5.0",
               "Weight": "250g"
-            },
-            "Price": "34999"
+            }
+            
           },
           {
             "Brand": "Apple",
@@ -69,8 +69,8 @@
               "Battery Life": "20 hours",
               "Connectivity": "Bluetooth 5.0",
               "Weight": "384g"
-            },
-            "Price": "59999"
+            }
+            
           },
           {
             "Brand": "Dahua",
@@ -81,8 +81,8 @@
               "Night Vision": "30m",
               "Field of View": "106° - 32°",
               "Connectivity": "PoE"
-            },
-            "Price": "19999"
+            }
+            
           },
           {
             "Brand": "Hikvision",
@@ -93,8 +93,8 @@
               "Night Vision": "30m",
               "Field of View": "105°",
               "Connectivity": "PoE"
-            },
-            "Price": "18999"
+            }
+            
           },
           {
             "Brand": "Axis",
@@ -105,8 +105,8 @@
               "Night Vision": "IR-enabled",
               "Field of View": "60° - 20°",
               "Connectivity": "PoE"
-            },
-            "Price": "45999"
+            }
+            
           },
           {
             "Brand": "Apple",
@@ -117,8 +117,8 @@
               "Camera": "48MP triple-camera system",
               "Battery Life": "Up to 23 hours talk time",
               "Storage Options": ["128GB", "256GB", "512GB", "1TB"]
-            },
-            "Price": "109999"
+            }
+            
           },
           {
             "Brand": "Samsung",
@@ -129,8 +129,8 @@
               "Camera": "200MP quad-camera system",
               "Battery Life": "Up to 28 hours talk time",
               "Storage Options": ["256GB", "512GB", "1TB"]
-            },
-            "Price": "134999"
+            }
+           
           },
           {
             "Brand": "Google",
@@ -141,8 +141,8 @@
               "Camera": "50MP triple-camera system",
               "Battery Life": "Up to 24 hours talk time",
               "Storage Options": ["128GB", "256GB", "512GB"]
-            },
-            "Price": "99999"
+            }
+            
           },
           {
             "Brand": "ASUS",
@@ -153,8 +153,8 @@
               "Form Factor": "ATX",
               "RAM Support": "Up to 128GB DDR4",
               "Storage Options": "4x SATA, 2x M.2"
-            },
-            "Price": "24999"
+            }
+           
           },
           {
             "Brand": "MSI",
@@ -165,8 +165,8 @@
               "Form Factor": "ATX",
               "RAM Support": "Up to 128GB DDR4",
               "Storage Options": "6x SATA, 2x M.2"
-            },
-            "Price": "15999"
+            }
+            
           },
           {
             "Brand": "Gigabyte",
@@ -177,8 +177,8 @@
               "Form Factor": "ATX",
               "RAM Support": "Up to 128GB DDR4/DDR5",
               "Storage Options": "6x SATA, 4x M.2"
-            },
-            "Price": "32999"
+            }
+            
           },
           {
             "Brand": "Apple",
@@ -189,8 +189,8 @@
               "RAM": "16GB",
               "Storage": "512GB SSD",
               "Battery Life": "Up to 17 hours"
-            },
-            "Price": "199999"
+            }
+            
           },
           {
             "Brand": "Dell",
@@ -201,8 +201,8 @@
               "RAM": "16GB",
               "Storage": "1TB SSD",
               "Battery Life": "Up to 12 hours"
-            },
-            "Price": "189999"
+            }
+           
           },
           {
             "Brand": "HP",
@@ -213,8 +213,8 @@
               "RAM": "16GB",
               "Storage": "1TB SSD",
               "Battery Life": "Up to 15 hours"
-            },
-            "Price": "159999"
+            }
+            
           }
         
     

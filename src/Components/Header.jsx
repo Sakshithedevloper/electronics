@@ -4,7 +4,7 @@ import { NavLink} from 'react-router-dom'
 const NewHeader = () => {
   return (
     <div className='main'>
-    <header className='container' style={{width:'100%',height:'50px'}}>Cost to Cost price list in Nehru Place</header>
+    <header className='container' style={{width:'100%',height:'50px'}}>Kay Vee Enterprices </header>
     <div className='nav'>
       <ul className='list'>
         <li><NavLink to = '/'>HOME</NavLink></li>
@@ -13,7 +13,7 @@ const NewHeader = () => {
         <li><NavLink to = '/dealers register'>DEALERS REGISTER</NavLink></li>
         <li><NavLink to = '/dealers login'>DEALERS LOGIN</NavLink></li>
       </ul>
-      <p className='para'>Cost to Cost Address and mobile numbers and Latest Price </p>
+      <p className='para'>Kay Vee Enterprices Address and mobile numbers and Latest Price </p>
     </div>
     </div>
   )

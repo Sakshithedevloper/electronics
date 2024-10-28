@@ -2,19 +2,19 @@ import React from 'react'
 
 export const Table = () => {
     const data = [
-        { id: 1, name: 'Keyborad', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 2, name: 'Hard disk', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 3, name: 'Mother board', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 4, name: 'Printer', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 5, name: 'Ram disk', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 6, name: 'Dvd writer', brandname: 'gigabyte',unitprice: 1100 },,
-        { id: 7, name: 'Cpu', brandname: 'gigabyte',unitprice: 1100},
-        { id: 8, name: 'Led monitor', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 9, name: 'Web cam', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 10, name: 'Printer',brandname: 'gigabyte',unitprice: 1100 },
-        { id: 11, name: 'Cabinet smps', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 12, name: 'Cpu', brandname: 'gigabyte',unitprice: 1100 },
-        { id: 13, name: 'Hard disk', brandname: 'gigabyte',unitprice: 1100 },
+        { id: 1, name: 'Keyborad', brandname: '--',unitprice: '--' },
+        { id: 2, name: 'Hard disk', brandname: '--',unitprice: '--' },
+        { id: 3, name: 'Mother board', brandname: '--',unitprice: '--' },
+        { id: 4, name: 'Printer', brandname: '--',unitprice: '--' },
+        { id: 5, name: 'Ram disk', brandname: '--',unitprice: '--' },
+        { id: 6, name: 'Dvd writer', brandname: '--',unitprice: '--' },,
+        { id: 7, name: 'Cpu', brandname: '--',unitprice: '--'},
+        { id: 8, name: 'Led monitor', brandname: '--',unitprice: '--' },
+        { id: 9, name: 'Web cam', brandname: '--',unitprice: '--' },
+        { id: 10, name: 'Printer',brandname: '--',unitprice: '--' },
+        { id: 11, name: 'Cabinet smps', brandname: '--',unitprice: '--' },
+        { id: 12, name: 'Cpu', brandname: '--',unitprice: '--' },
+        { id: 13, name: 'Hard disk', brandname: '--',unitprice: '--' },
       ];
 
   return (
